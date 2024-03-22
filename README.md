@@ -1,0 +1,1 @@
+# Global-Terrorism-Dataset-Diagnosis-Using-Power-BI
